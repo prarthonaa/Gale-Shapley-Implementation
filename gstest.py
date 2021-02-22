@@ -1,6 +1,4 @@
-# 3600 Stable Matching  Mini Project Test Code
-# Elaine Prarthona Nelson
-# 201802758
+#Elaine Prarthona Nelson
 
 
 from random import randint
