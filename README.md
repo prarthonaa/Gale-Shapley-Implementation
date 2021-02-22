@@ -9,12 +9,12 @@ This is my version to implement the Gale-Shapley Algorithm. This was an optional
       3 (value of k)
       
       0 1 2 3 4 5 <-- preference list of set 1 ( we start at 0 )
-      0 4 3 2 1 5
-      2 4 5 1 3 0
+   \  0 4 3 2 1 5
+   \  2 4 5 1 3 0
       
       5 4 3 2 1 0 <-- preference list of set 2
-      1 2 4 5 3 0
-      4 3 1 0 2 5
+   \  1 2 4 5 3 0
+   \  4 3 1 0 2 5
       
       0 1 2 0 2 1 <-- which row in prefence list each element prefers for set 1. So element 0 (at index 0) prefers rank list 0 (which is 0 1 2 3 4 5) and so on
       
