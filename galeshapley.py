@@ -1,4 +1,4 @@
-# 3600 Stable Matching  Mini Project - Gale Shapley Algorithm code
+# Stable Matching  Mini Project - Gale Shapley Algorithm code
 # Elaine Prarthona Nelson
 
 
