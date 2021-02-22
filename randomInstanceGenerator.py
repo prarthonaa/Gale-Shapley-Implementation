@@ -1,6 +1,6 @@
-# 3600 Stable Matching  Mini Project Random instance generator code
+# Stable Matching  Mini Project Random instance generator code
 # Elaine Prarthona Nelson
-# 201802758
+
 
 from random import randint
 import sys
