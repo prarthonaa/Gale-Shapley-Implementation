@@ -1,4 +1,4 @@
-# Gale Shapley Algorithm Implementation
+# Gale Shapley Algorithm Implementation - by Elaine Nelson
 
 
 This is my version to implement the Gale-Shapley Algorithm. This was an optional project I did for my Algorithm Design and Analysis course.
