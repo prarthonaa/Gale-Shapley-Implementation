@@ -156,7 +156,7 @@ if __name__ == "__main__":
             print("Possible ranking/preference lists a hospital chooses from:")
             printPreferenceOptions(h,k,n)
             print()
-            print("Possible ranking/preference lists set a student chooses from:")
+            print("Possible ranking/preference lists a student chooses from:")
             printPreferenceOptions(s,k,n)
             print()
             print("Indexes of chosen preference lists for hospitals:")
