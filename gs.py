@@ -30,10 +30,10 @@ def preferenceIndexes(n, k):
 
 
 def printPreferenceOptions(preferenceListMatrix,k,n):
-    count = 1
+    
     for i in range(k):
         row = preferenceListMatrix[i]
-        print("Rank list ", count, ":", end = " ")
+        print("Preference list ", i, ":", end = " ")
         for j in range(n):
             print(row[j], end=" ")
         print()
