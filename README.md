@@ -16,27 +16,28 @@ Output example:
 gs.py 5 3
 
 Possible ranking/preference lists a hospital chooses from:
-Rank list  1 : 1 2 4 0 3
-Rank list  2 : 4 1 0 2 3
-Rank list  3 : 0 1 3 2 4
+Preference list  0 : 0 3 1 2 4
+Preference list  1 : 1 0 4 3 2
+Preference list  2 : 3 2 1 0 4
 
 Possible ranking/preference lists set a student chooses from:
-Rank list  1 : 4 1 2 0 3
-Rank list  2 : 1 0 4 2 3
-Rank list  3 : 3 4 2 0 1
+Preference list  0 : 2 3 0 1 4
+Preference list  1 : 4 2 0 1 3
+Preference list  2 : 3 4 0 1 2
 
 Indexes of chosen preference lists for hospitals:
-Indexes for each:  2 1 0 0 2
+Indexes for each:  2 2 1 2 1
 
 Indexes of chosen preference lists for students:
-Indexes for each:  1 0 0 0 0
+Indexes for each:  2 2 0 0 0
 
 Stable matches that have been created:
-Hospital  1 matches with student 4
-Hospital  0 matches with student 0
-Hospital  4 matches with student 1
-Hospital  2 matches with student 2
 Hospital  3 matches with student 3
+Hospital  4 matches with student 1
+Hospital  0 matches with student 2
+Hospital  1 matches with student 0
+Hospital  2 matches with student 4
 Algorithm complete!
+
 ```
 
