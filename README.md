@@ -12,33 +12,9 @@ Some clarification (in this example n = 5):
       0 0 0 1 2 2 <-- which row in prefence list each element prefers for set 2. So element 3 (at index 3) prefers rank list 1 
       
 Output examples: 
-```Possible ranking/preference lists a hospital chooses from:
-Rank list  1 : 3 4 0 1 2
-Rank list  2 : 1 3 2 4 0
-Rank list  3 : 1 3 4 2 0
+```
+gs.py 5 3
 
-Possible ranking/preference lists set a student chooses from:
-Rank list  1 : 0 2 4 1 3
-Rank list  2 : 0 4 1 3 2
-Rank list  3 : 4 0 3 1 2
-
-Indexes of chosen preference lists for hospitals:
-
-Indexes for each:  2 0 2 1 0
-
-Indexes of chosen preference lists for students:
-
-Indexes for each:  2 1 2 1 1
-
-Stable matches that have been created:
-Hospital  4 matches with student 3
-Hospital  1 matches with student 4
-Hospital  0 matches with student 1
-Hospital  3 matches with student 2
-Hospital  2 matches with student 0
-Algorithm complete!
-
-(venv) C:\Users\Elaine Nelson\PycharmProjects\Stable-Matching-mini-project>gs.py 5 3
 Possible ranking/preference lists a hospital chooses from:
 Rank list  1 : 1 2 4 0 3
 Rank list  2 : 4 1 0 2 3
