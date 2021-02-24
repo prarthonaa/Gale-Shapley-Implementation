@@ -11,7 +11,7 @@ Some clarification (in this example n = 5):
       
       0 0 0 1 2 2 <-- which row in prefence list each element prefers for set 2. So element 3 (at index 3) prefers rank list 1 
       
-Output examples: 
+Output example: 
 ```
 gs.py 5 3
 
