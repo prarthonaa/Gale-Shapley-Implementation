@@ -1,7 +1,7 @@
 # Gale Shapley Algorithm Implementation - by Elaine Nelson
 
 
-This is my version to implement the Gale-Shapley Algorithm. This was an optional project I did for my Algorithm Design and Analysis course.
+This is my version to implement the Gale-Shapley Algorithm. This was an optional project I did for my Algorithm Design and Analysis course with some additions.
 
 Code needs to be run in the command line as ' gs.py n k '. Where n is the number of two equally sized sets(for this example we have hospitals and students as the two sets) and k is the number of possible ranking lists. We are assuming that there are only a few possible rankings. The last two lines in the input file show the indexes of each ranking that each element prefers. For example:     
          
