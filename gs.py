@@ -29,8 +29,7 @@ def preferenceIndexes(n, k):
     return indexes
 
 
-def printPreferenceOptions(preferenceListMatrix,k,n):
-    
+def printPreferenceOptions(preferenceListMatrix,k,n):    
     for i in range(k):
         row = preferenceListMatrix[i]
         print("Preference list ", i, ":", end = " ")
