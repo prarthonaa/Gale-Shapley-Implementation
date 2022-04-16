@@ -36,7 +36,7 @@ def printPreferenceOptions(preferenceListMatrix,k,n):
         for j in range(n):
             print(row[j], end=" ")
         print()
-        count+=1
+        # count+=1
 
 
 
